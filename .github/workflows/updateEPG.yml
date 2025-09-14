@@ -34,8 +34,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "doube-ba"
-          git config user.email "doubebly@github.com"
+          git config --global user.email "doubebly@gmail.com"
+          git config --global user.name "doubebly"
 
       - name: Add and commit changes
         working-directory: ./TWEPG
