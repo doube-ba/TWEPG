@@ -34,7 +34,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "Github流水线"
+          git config user.name "doube-ba"
           git config user.email "doubebly@github.com"
 
       - name: Add and commit changes
