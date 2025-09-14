@@ -1,0 +1,50 @@
+name: updateEPG
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 2 * * *'
+
+jobs:
+  updateEPG:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Clone repository
+        run: git clone https://github.com/doube-ba/TWEPG.git
+
+      - name: Install dependencies
+        working-directory: ./TWEPG
+        run: pip install -r requirements.txt
+
+      - name: Run Python script
+        working-directory: ./TWEPG
+        run: python twEPG.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "Github流水线"
+          git config user.email "doubebly@github.com"
+
+      - name: Add and commit changes
+        working-directory: ./TWEPG
+        run: |
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated update by GitHub Actions"
+
+      - name: Push changes
+        working-directory: ./TWEPG
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: git push https://${TOKEN}@github.com/doube-ba/TWEPG.git main
