@@ -24,7 +24,10 @@ jobs:
 
       - name: Run Python script
         working-directory: ./TWEPG
-        run: python twEPG.py
+        run: |
+          echo "Running Python script..."
+          python twEPG.py
+          echo "Python script completed."
 
       - name: Configure Git
         run: |
