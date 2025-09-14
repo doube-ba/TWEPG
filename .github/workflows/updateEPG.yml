@@ -1,13 +1,7 @@
 name: updateEPG
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 2 * * *'  # 每天凌晨 2 点运行
 
 jobs:
   updateEPG:
@@ -30,7 +24,10 @@ jobs:
 
       - name: Run Python script
         working-directory: ./TWEPG
-        run: python twEPG.py
+        run: |
+          echo "Running Python script..."
+          python twEPG.py
+          echo "Python script completed."
 
       - name: Configure Git
         run: |
@@ -41,10 +38,19 @@ jobs:
         working-directory: ./TWEPG
         run: |
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automated update by GitHub Actions"
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated update by GitHub Actions"
+          else
+            echo "No changes to commit."
+          fi
 
       - name: Push changes
         working-directory: ./TWEPG
         env:
           TOKEN: ${{ secrets.TOKEN }}
-        run: git push https://${TOKEN}@github.com/doube-ba/TWEPG.git main
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git push https://${TOKEN}@github.com/doube-ba/TWEPG.git main
+          else
+            echo "No changes to push."
+          fi
