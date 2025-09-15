@@ -28,7 +28,7 @@ class EPG4GTV:
             for i in response.json()['Data']:
                 title = i['title']
                 start = i['sdate'].replace('-', '') + i['stime'].replace(':', '')
-                stop = i['etime'].replace('-', '') + i['etime'].replace(':', '')
+                stop = i['edate'].replace('-', '') + i['etime'].replace(':', '')
                 epg_data.append(f'<programme start="{start} +0800" stop="{stop} +0800" channel="{pid}"><title lang="zh">{title}</title></programme>')
             return '\n'.join(epg_data)
         except Exception as e:
