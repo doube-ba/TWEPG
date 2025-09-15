@@ -2,7 +2,7 @@ name: updateEPG
 on:
   workflow_dispatch:  # 允许手动执行
   schedule:
-    - cron: '0 18 * * *'  # 每天凌晨 2 点自动执行
+    - cron: '0 17 * * *'  # 每天凌晨 2 点自动执行
 
 jobs:
   updateEPG:
