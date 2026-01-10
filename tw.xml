@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv data="20260110160811 +0800">
+<tv data="20260111012026 +0800">
 <channel id="4gtv-4gtv003"><display-name lang="zh">民視第一台</display-name></channel>
 <programme start="20260110000000 +0800" stop="20260110021500 +0800" channel="4gtv-4gtv003"><title lang="zh">豆腐媽媽【普】(E14)</title></programme>
 <programme start="20260110021500 +0800" stop="20260110023000 +0800" channel="4gtv-4gtv003"><title lang="zh">元氣加油站【普】(E2628)</title></programme>
@@ -13218,15 +13218,6 @@
 <programme start="20260112224800 +0800" stop="20260112233400 +0800" channel="4gtv-live010"><title lang="zh">珍珠耳環16</title></programme>
 <programme start="20260112233400 +0800" stop="20260113000000 +0800" channel="4gtv-live010"><title lang="zh">凜子小姐想試愛03</title></programme>
 <channel id="iNEWS"><display-name lang="zh">三立新聞iNEWS</display-name></channel>
-<programme start="20260110155500 +0800" stop="20260110165500 +0800" channel="iNEWS"><title lang="zh">消失的國界</title><desc lang="zh"/></programme>
-<programme start="20260110165500 +0800" stop="20260110175500 +0800" channel="iNEWS"><title lang="zh">iNEWS財經晚報</title><desc lang="zh"/></programme>
-<programme start="20260110175500 +0800" stop="20260110195500 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
-<programme start="20260110195500 +0800" stop="20260110203000 +0800" channel="iNEWS"><title lang="zh">iNEWS大世界</title><desc lang="zh"/></programme>
-<programme start="20260110203000 +0800" stop="20260110210000 +0800" channel="iNEWS"><title lang="zh">全民i彩券</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110220000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110230000 +0800" channel="iNEWS"><title lang="zh">MIT趨勢先知</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260111000000 +0800" channel="iNEWS"><title lang="zh">驚爆新聞線</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="iNEWS"><title lang="zh">驚爆新聞線</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111030000 +0800" channel="iNEWS"><title lang="zh">MIT趨勢先知</title><desc lang="zh"/></programme>
 <programme start="20260111030000 +0800" stop="20260111040000 +0800" channel="iNEWS"><title lang="zh">全球新食力</title><desc lang="zh"/></programme>
@@ -13278,15 +13269,6 @@
 <programme start="20260113050000 +0800" stop="20260113060000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
 <programme start="20260113060000 +0800" stop="20260113070000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv158"><display-name lang="zh">寰宇財經台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110170000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110180000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110190000 +0800" channel="4gtv-4gtv158"><title lang="zh">台灣大代誌 #1</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110200000 +0800" channel="4gtv-4gtv158"><title lang="zh">兆華艾綸說</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110210000 +0800" channel="4gtv-4gtv158"><title lang="zh">怪奇物語</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110220000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110230000 +0800" channel="4gtv-4gtv158"><title lang="zh">兆華艾綸說</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260111000000 +0800" channel="4gtv-4gtv158"><title lang="zh">寰宇追追追</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111030000 +0800" channel="4gtv-4gtv158"><title lang="zh">寰宇追追追</title><desc lang="zh"/></programme>
 <programme start="20260111030000 +0800" stop="20260111040000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
@@ -13342,8 +13324,6 @@
 <programme start="20260113050000 +0800" stop="20260113060000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
 <programme start="20260113060000 +0800" stop="20260113070000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
 <channel id="nnews-zh"><display-name lang="zh">倪珍播新聞</display-name></channel>
-<programme start="20260110120000 +0800" stop="20260110180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260111000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260111000000 +0800" stop="20260111060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260111060000 +0800" stop="20260111120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
 <programme start="20260111120000 +0800" stop="20260111180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
@@ -13359,24 +13339,6 @@
 <programme start="20260113200000 +0800" stop="20260114000000 +0800" channel="nnews-zh"><title lang="zh">節目未定</title><desc lang="zh"/></programme>
 <programme start="20260114000000 +0800" stop="20260114040000 +0800" channel="nnews-zh"><title lang="zh">節目未定</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv104"><display-name lang="zh">第1商業台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110163000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
-<programme start="20260110163000 +0800" stop="20260110170000 +0800" channel="4gtv-4gtv104"><title lang="zh">汪海華_操盤的智慧</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110173000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
-<programme start="20260110173000 +0800" stop="20260110180000 +0800" channel="4gtv-4gtv104"><title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110183000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260110183000 +0800" stop="20260110190000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110193000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
-<programme start="20260110193000 +0800" stop="20260110200000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110203000 +0800" channel="4gtv-4gtv104"><title lang="zh">國家寶藏-啟發投顧-林國寶分析師</title><desc lang="zh"/></programme>
-<programme start="20260110203000 +0800" stop="20260110210000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110213000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
-<programme start="20260110213000 +0800" stop="20260110220000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110223000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
-<programme start="20260110223000 +0800" stop="20260110230000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260110233000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260110233000 +0800" stop="20260111000000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111003000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260111003000 +0800" stop="20260111010000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111013000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
 <programme start="20260111013000 +0800" stop="20260111020000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
@@ -13580,15 +13542,6 @@
 <programme start="20260115150000 +0800" stop="20260115153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
 <programme start="20260115153000 +0800" stop="20260115160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
 <channel id="litv-longturn19"><display-name lang="zh">Smart知識台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110170000 +0800" channel="litv-longturn19"><title lang="zh">一次搞定</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110180000 +0800" channel="litv-longturn19"><title lang="zh">一次搞定</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110190000 +0800" channel="litv-longturn19"><title lang="zh">全民星攻略Super Night</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110200000 +0800" channel="litv-longturn19"><title lang="zh">台灣60赫茲</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110210000 +0800" channel="litv-longturn19"><title lang="zh">論政天下之鬥而不破</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110220000 +0800" channel="litv-longturn19"><title lang="zh">消失的國界</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110230000 +0800" channel="litv-longturn19"><title lang="zh">全民星攻略Super Night</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260111000000 +0800" channel="litv-longturn19"><title lang="zh">台灣60赫茲</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="litv-longturn19"><title lang="zh">一次搞定</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="litv-longturn19"><title lang="zh">一次搞定</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111030000 +0800" channel="litv-longturn19"><title lang="zh">全民星攻略Super Night</title><desc lang="zh"/></programme>
 <programme start="20260111030000 +0800" stop="20260111040000 +0800" channel="litv-longturn19"><title lang="zh">台灣60赫茲</title><desc lang="zh"/></programme>
@@ -13644,16 +13597,6 @@
 <programme start="20260113050000 +0800" stop="20260113060000 +0800" channel="litv-longturn19"><title lang="zh">全民星攻略Super Night</title><desc lang="zh"/></programme>
 <programme start="20260113060000 +0800" stop="20260113070000 +0800" channel="litv-longturn19"><title lang="zh">健康2.0</title><desc lang="zh"/></programme>
 <channel id="litv-longturn22"><display-name lang="zh">台灣戲劇台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110170000 +0800" channel="litv-longturn22"><title lang="zh">包青天</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110173000 +0800" channel="litv-longturn22"><title lang="zh">親戚不計較</title><desc lang="zh"/></programme>
-<programme start="20260110173000 +0800" stop="20260110180000 +0800" channel="litv-longturn22"><title lang="zh">親戚不計較</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110183000 +0800" channel="litv-longturn22"><title lang="zh">親戚不計較</title><desc lang="zh"/></programme>
-<programme start="20260110183000 +0800" stop="20260110190000 +0800" channel="litv-longturn22"><title lang="zh">親戚不計較</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110200000 +0800" channel="litv-longturn22"><title lang="zh">關鍵時刻</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110210000 +0800" channel="litv-longturn22"><title lang="zh">關鍵時刻</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110223000 +0800" channel="litv-longturn22"><title lang="zh">藍色水玲瓏</title><desc lang="zh"/></programme>
-<programme start="20260110223000 +0800" stop="20260111000000 +0800" channel="litv-longturn22"><title lang="zh">藍色水玲瓏</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="litv-longturn22"><title lang="zh">台灣啟示錄</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="litv-longturn22"><title lang="zh">台灣啟示錄</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111033000 +0800" channel="litv-longturn22"><title lang="zh">藍色水玲瓏</title><desc lang="zh"/></programme>
 <programme start="20260111033000 +0800" stop="20260111050000 +0800" channel="litv-longturn22"><title lang="zh">藍色水玲瓏</title><desc lang="zh"/></programme>
@@ -13710,24 +13653,6 @@
 <programme start="20260113060000 +0800" stop="20260113063000 +0800" channel="litv-longturn22"><title lang="zh">親戚不計較</title><desc lang="zh"/></programme>
 <programme start="20260113063000 +0800" stop="20260113070000 +0800" channel="litv-longturn22"><title lang="zh">親戚不計較</title><desc lang="zh"/></programme>
 <channel id="litv-longturn01"><display-name lang="zh">龍華卡通台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110163000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#7</title><desc lang="zh"/></programme>
-<programme start="20260110163000 +0800" stop="20260110170000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#8</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110173000 +0800" channel="litv-longturn01"><title lang="zh">豆小鴨</title><desc lang="zh"/></programme>
-<programme start="20260110173000 +0800" stop="20260110180000 +0800" channel="litv-longturn01"><title lang="zh">豆小鴨</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110183000 +0800" channel="litv-longturn01"><title lang="zh">森林偵探隊Peet, The Forest Detective</title><desc lang="zh"/></programme>
-<programme start="20260110183000 +0800" stop="20260110190000 +0800" channel="litv-longturn01"><title lang="zh">森林偵探隊Peet, The Forest Detective</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110193000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#5</title><desc lang="zh"/></programme>
-<programme start="20260110193000 +0800" stop="20260110200000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#6</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110203000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#7</title><desc lang="zh"/></programme>
-<programme start="20260110203000 +0800" stop="20260110210000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#8</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110213000 +0800" channel="litv-longturn01"><title lang="zh">南瓜入侵</title><desc lang="zh"/></programme>
-<programme start="20260110213000 +0800" stop="20260110220000 +0800" channel="litv-longturn01"><title lang="zh">南瓜入侵</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110223000 +0800" channel="litv-longturn01"><title lang="zh">豆小鴨</title><desc lang="zh"/></programme>
-<programme start="20260110223000 +0800" stop="20260110230000 +0800" channel="litv-longturn01"><title lang="zh">豆小鴨</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260110233000 +0800" channel="litv-longturn01"><title lang="zh">森林偵探隊Peet, The Forest Detective</title><desc lang="zh"/></programme>
-<programme start="20260110233000 +0800" stop="20260111000000 +0800" channel="litv-longturn01"><title lang="zh">森林偵探隊Peet, The Forest Detective</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111003000 +0800" channel="litv-longturn01"><title lang="zh">南瓜入侵</title><desc lang="zh"/></programme>
-<programme start="20260111003000 +0800" stop="20260111010000 +0800" channel="litv-longturn01"><title lang="zh">南瓜入侵</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111013000 +0800" channel="litv-longturn01"><title lang="zh">森林偵探隊Peet, The Forest Detective</title><desc lang="zh"/></programme>
 <programme start="20260111013000 +0800" stop="20260111020000 +0800" channel="litv-longturn01"><title lang="zh">森林偵探隊Peet, The Forest Detective</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111023000 +0800" channel="litv-longturn01"><title lang="zh">呱張爆音團#9</title><desc lang="zh"/></programme>
@@ -13951,15 +13876,6 @@
 <programme start="20260115150000 +0800" stop="20260115153000 +0800" channel="litv-longturn01"><title lang="zh">彼得與狼奇遇記</title><desc lang="zh"/></programme>
 <programme start="20260115153000 +0800" stop="20260115160000 +0800" channel="litv-longturn01"><title lang="zh">彼得與狼奇遇記</title><desc lang="zh"/></programme>
 <channel id="litv-longturn18"><display-name lang="zh">龍華戲劇台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110170000 +0800" channel="litv-longturn18"><title lang="zh">一代名相陳廷敬</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110180000 +0800" channel="litv-longturn18"><title lang="zh">一代名相陳廷敬</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110190000 +0800" channel="litv-longturn18"><title lang="zh">一代名相陳廷敬</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110200000 +0800" channel="litv-longturn18"><title lang="zh">一代名相陳廷敬</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110210000 +0800" channel="litv-longturn18"><title lang="zh">名不虛傳#17</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110220000 +0800" channel="litv-longturn18"><title lang="zh">名不虛傳#18</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110230000 +0800" channel="litv-longturn18"><title lang="zh">沉香#21</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260111000000 +0800" channel="litv-longturn18"><title lang="zh">沉香#22</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="litv-longturn18"><title lang="zh">沉香#23</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="litv-longturn18"><title lang="zh">沉香#24</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111030000 +0800" channel="litv-longturn18"><title lang="zh">倚天屠龍記#7</title><desc lang="zh"/></programme>
 <programme start="20260111030000 +0800" stop="20260111040000 +0800" channel="litv-longturn18"><title lang="zh">倚天屠龍記#8</title><desc lang="zh"/></programme>
@@ -14072,16 +13988,6 @@
 <programme start="20260115140000 +0800" stop="20260115150000 +0800" channel="litv-longturn18"><title lang="zh">大漢天子2#38</title><desc lang="zh"/></programme>
 <programme start="20260115150000 +0800" stop="20260115160000 +0800" channel="litv-longturn18"><title lang="zh">大漢天子2#39</title><desc lang="zh"/></programme>
 <channel id="litv-longturn12"><display-name lang="zh">龍華偶像台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110164500 +0800" channel="litv-longturn12"><title lang="zh">韶華若錦#15</title><desc lang="zh"/></programme>
-<programme start="20260110164500 +0800" stop="20260110173000 +0800" channel="litv-longturn12"><title lang="zh">韶華若錦#16</title><desc lang="zh"/></programme>
-<programme start="20260110173000 +0800" stop="20260110183000 +0800" channel="litv-longturn12"><title lang="zh">愛情是Beautiful，人生是Wonderful#42</title><desc lang="zh"/></programme>
-<programme start="20260110183000 +0800" stop="20260110193000 +0800" channel="litv-longturn12"><title lang="zh">愛情是Beautiful，人生是Wonderful#43</title><desc lang="zh"/></programme>
-<programme start="20260110193000 +0800" stop="20260110203000 +0800" channel="litv-longturn12"><title lang="zh">愛情是Beautiful，人生是Wonderful#44</title><desc lang="zh"/></programme>
-<programme start="20260110203000 +0800" stop="20260110211500 +0800" channel="litv-longturn12"><title lang="zh">韶華若錦#17</title><desc lang="zh"/></programme>
-<programme start="20260110211500 +0800" stop="20260110220000 +0800" channel="litv-longturn12"><title lang="zh">韶華若錦#18</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110230000 +0800" channel="litv-longturn12"><title lang="zh">時光之城#3</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260111000000 +0800" channel="litv-longturn12"><title lang="zh">時光之城#4</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="litv-longturn12"><title lang="zh">奇蹟的兄弟#3</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="litv-longturn12"><title lang="zh">奇蹟的兄弟#4</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111030000 +0800" channel="litv-longturn12"><title lang="zh">向風而行#16</title><desc lang="zh"/></programme>
 <programme start="20260111030000 +0800" stop="20260111040000 +0800" channel="litv-longturn12"><title lang="zh">向風而行#17</title><desc lang="zh"/></programme>
@@ -14196,15 +14102,6 @@
 <programme start="20260115140000 +0800" stop="20260115150000 +0800" channel="litv-longturn12"><title lang="zh">紅天機#20</title><desc lang="zh"/></programme>
 <programme start="20260115150000 +0800" stop="20260115160000 +0800" channel="litv-longturn12"><title lang="zh">紅天機#21</title><desc lang="zh"/></programme>
 <channel id="litv-longturn11"><display-name lang="zh">龍華日韓台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110170000 +0800" channel="litv-longturn11"><title lang="zh">紳士與小姐#12</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110180000 +0800" channel="litv-longturn11"><title lang="zh">兩個女人的房間#37</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110190000 +0800" channel="litv-longturn11"><title lang="zh">兩個女人的房間#38</title><desc lang="zh"/></programme>
-<programme start="20260110190000 +0800" stop="20260110200000 +0800" channel="litv-longturn11"><title lang="zh">兩個女人的房間#39</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110210000 +0800" channel="litv-longturn11"><title lang="zh">抓住你的衣領#21</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110220000 +0800" channel="litv-longturn11"><title lang="zh">抓住你的衣領#22</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110230000 +0800" channel="litv-longturn11"><title lang="zh">最佳愛情#24</title><desc lang="zh"/></programme>
-<programme start="20260110230000 +0800" stop="20260111000000 +0800" channel="litv-longturn11"><title lang="zh">好搭檔#1</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111010000 +0800" channel="litv-longturn11"><title lang="zh">紳士與小姐#10</title><desc lang="zh"/></programme>
 <programme start="20260111010000 +0800" stop="20260111020000 +0800" channel="litv-longturn11"><title lang="zh">紳士與小姐#11</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111030000 +0800" channel="litv-longturn11"><title lang="zh">紳士與小姐#12</title><desc lang="zh"/></programme>
 <programme start="20260111030000 +0800" stop="20260111040000 +0800" channel="litv-longturn11"><title lang="zh">最佳愛情#24</title><desc lang="zh"/></programme>
@@ -14317,10 +14214,6 @@
 <programme start="20260115140000 +0800" stop="20260115150000 +0800" channel="litv-longturn11"><title lang="zh">母親#35</title><desc lang="zh"/></programme>
 <programme start="20260115150000 +0800" stop="20260115160000 +0800" channel="litv-longturn11"><title lang="zh">母親#36</title><desc lang="zh"/></programme>
 <channel id="litv-longturn21"><display-name lang="zh">龍華經典台</display-name></channel>
-<programme start="20260110152500 +0800" stop="20260110173000 +0800" channel="litv-longturn21"><title lang="zh">黃飛鴻之鐵雞鬥蜈蚣Last Hero In China</title><desc lang="zh"/></programme>
-<programme start="20260110173000 +0800" stop="20260110191000 +0800" channel="litv-longturn21"><title lang="zh">大洪荒</title><desc lang="zh"/></programme>
-<programme start="20260110191000 +0800" stop="20260110210000 +0800" channel="litv-longturn21"><title lang="zh">五湖四海</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110230000 +0800" channel="litv-longturn21"><title lang="zh">大人物</title><desc lang="zh"/></programme>
 <programme start="20260110230000 +0800" stop="20260111020000 +0800" channel="litv-longturn21"><title lang="zh">狂沙十萬里Once Upon A Time In The West</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111060000 +0800" channel="litv-longturn21"><title lang="zh">收播aka:系統測試</title><desc lang="zh"/></programme>
 <programme start="20260111060000 +0800" stop="20260111080000 +0800" channel="litv-longturn21"><title lang="zh">好萊塢幕後解密</title><desc lang="zh"/></programme>
@@ -14345,11 +14238,6 @@
 <programme start="20260112232500 +0800" stop="20260113020000 +0800" channel="litv-longturn21"><title lang="zh">歲月風雲之上海皇帝</title><desc lang="zh"/></programme>
 <programme start="20260113020000 +0800" stop="20260113060000 +0800" channel="litv-longturn21"><title lang="zh">收播aka:系統測試</title><desc lang="zh"/></programme>
 <channel id="litv-longturn03"><display-name lang="zh">龍華電影台</display-name></channel>
-<programme start="20260110152500 +0800" stop="20260110162500 +0800" channel="litv-longturn03"><title lang="zh">軍師聯盟#7</title><desc lang="zh"/></programme>
-<programme start="20260110162500 +0800" stop="20260110172500 +0800" channel="litv-longturn03"><title lang="zh">軍師聯盟#8</title><desc lang="zh"/></programme>
-<programme start="20260110172500 +0800" stop="20260110182500 +0800" channel="litv-longturn03"><title lang="zh">軍師聯盟#9</title><desc lang="zh"/></programme>
-<programme start="20260110182500 +0800" stop="20260110210000 +0800" channel="litv-longturn03"><title lang="zh">通天神探狄仁傑D-Project</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110235000 +0800" channel="litv-longturn03"><title lang="zh">錢不夠用3：全部夠用Money No Enough 3</title><desc lang="zh"/></programme>
 <programme start="20260110235000 +0800" stop="20260111021000 +0800" channel="litv-longturn03"><title lang="zh">五億探長雷洛傳2父子情仇aka:雷洛傳2之父子情仇</title><desc lang="zh"/></programme>
 <programme start="20260111021000 +0800" stop="20260111043000 +0800" channel="litv-longturn03"><title lang="zh">我是證人The Witness</title><desc lang="zh"/></programme>
 <programme start="20260111043000 +0800" stop="20260111064000 +0800" channel="litv-longturn03"><title lang="zh">”大”人物The Big Shot</title><desc lang="zh"/></programme>
@@ -14413,11 +14301,6 @@
 <programme start="20260115145000 +0800" stop="20260115152000 +0800" channel="litv-longturn03"><title lang="zh">超人力霸王傑特#17</title><desc lang="zh"/></programme>
 <programme start="20260115152000 +0800" stop="20260115155000 +0800" channel="litv-longturn03"><title lang="zh">超人力霸王傑特#18</title><desc lang="zh"/></programme>
 <channel id="litv-longturn02"><display-name lang="zh">龍華洋片台</display-name></channel>
-<programme start="20260110152000 +0800" stop="20260110170000 +0800" channel="litv-longturn02"><title lang="zh">伊莉莎白二世：榮耀年華Queen Elizabeth II: Her Glorious Reign</title><desc lang="zh"/></programme>
-<programme start="20260110170000 +0800" stop="20260110184500 +0800" channel="litv-longturn02"><title lang="zh">北極戰隊Arctic Justice</title><desc lang="zh"/></programme>
-<programme start="20260110184500 +0800" stop="20260110210000 +0800" channel="litv-longturn02"><title lang="zh">酷寒殺手Cold Pursuit</title><desc lang="zh"/></programme>
-<programme start="20260110210000 +0800" stop="20260110225000 +0800" channel="litv-longturn02"><title lang="zh">惡夜性追緝Midnight in the Switchgrass</title><desc lang="zh"/></programme>
-<programme start="20260110225000 +0800" stop="20260111003000 +0800" channel="litv-longturn02"><title lang="zh">致命彈片</title><desc lang="zh"/></programme>
 <programme start="20260111003000 +0800" stop="20260111022500 +0800" channel="litv-longturn02"><title lang="zh">復仇殺神</title><desc lang="zh"/></programme>
 <programme start="20260111022500 +0800" stop="20260111041000 +0800" channel="litv-longturn02"><title lang="zh">殺戮聖士</title><desc lang="zh"/></programme>
 <programme start="20260111041000 +0800" stop="20260111060000 +0800" channel="litv-longturn02"><title lang="zh">贖命殺神The Keeper (aka:絕命出擊)</title><desc lang="zh"/></programme>
@@ -14455,19 +14338,6 @@
 <programme start="20260113200000 +0800" stop="20260114000000 +0800" channel="litv-longturn02"><title lang="zh">節目未定</title><desc lang="zh"/></programme>
 <programme start="20260114000000 +0800" stop="20260114040000 +0800" channel="litv-longturn02"><title lang="zh">節目未定</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv102"><display-name lang="zh">東森購物1台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110164000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110164000 +0800" stop="20260110172000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110172000 +0800" stop="20260110180000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110184000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110184000 +0800" stop="20260110192000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110192000 +0800" stop="20260110200000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110204000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110204000 +0800" stop="20260110212000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110212000 +0800" stop="20260110220000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110224000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110224000 +0800" stop="20260110232000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110232000 +0800" stop="20260111000000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111004000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
 <programme start="20260111004000 +0800" stop="20260111012000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260111012000 +0800" stop="20260111020000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
@@ -14636,19 +14506,6 @@
 <programme start="20260115144000 +0800" stop="20260115152000 +0800" channel="4gtv-4gtv102"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
 <programme start="20260115152000 +0800" stop="20260115160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv103"><display-name lang="zh">東森購物2台</display-name></channel>
-<programme start="20260110160000 +0800" stop="20260110164000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110164000 +0800" stop="20260110172000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110172000 +0800" stop="20260110180000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110180000 +0800" stop="20260110184000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110184000 +0800" stop="20260110192000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110192000 +0800" stop="20260110200000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110200000 +0800" stop="20260110204000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110204000 +0800" stop="20260110212000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110212000 +0800" stop="20260110220000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110220000 +0800" stop="20260110224000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260110224000 +0800" stop="20260110232000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
-<programme start="20260110232000 +0800" stop="20260111000000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260111000000 +0800" stop="20260111004000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
 <programme start="20260111004000 +0800" stop="20260111012000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260111012000 +0800" stop="20260111020000 +0800" channel="4gtv-4gtv103"><title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title><desc lang="zh"/></programme>
 <programme start="20260111020000 +0800" stop="20260111024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
