@@ -17,7 +17,7 @@ jobs:
           python-version: '3.12'
 
       - name: Clone repository
-        run: git clone https://github.com/doube-ba/TWEPG.git
+        run: git clone https://github.com/doubebly/TWEPG.git
 
       - name: Install dependencies
         working-directory: ./TWEPG
@@ -45,4 +45,4 @@ jobs:
         working-directory: ./TWEPG
         env:
           TOKEN: ${{ secrets.TOKEN }}
-        run: git push https://${TOKEN}@github.com/doube-ba/TWEPG.git main
+        run: git push https://${TOKEN}@github.com/doubebly/TWEPG.git main
